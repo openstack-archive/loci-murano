@@ -1,0 +1,8 @@
+- project:
+    name: openstack/loci-murano
+    check:
+      jobs:
+        - noop
+    gate:
+      jobs:
+        - noop
