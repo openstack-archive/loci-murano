@@ -1,0 +1,9 @@
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Code-Review+2: Sam Yaple <sam+git@yaple.net>
+Workflow+1: Sam Yaple <sam+git@yaple.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 13 Jun 2018 15:10:37 +0000
+Reviewed-on: https://review.openstack.org/574392
+Project: openstack/loci-murano
+Branch: refs/heads/master
