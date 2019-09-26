@@ -1,1 +1,3 @@
-This repo is no longer used. Please visit [OpenStack LOCI](http://github.com/openstack/loci/) ([https://github.com/openstack/loci/](http://github.com/openstack/loci/))
+# This repo has moved to OpenDev
+
+It can now be found at [https://opendev.org/x/loci-murano](https://opendev.org/x/loci-murano)
